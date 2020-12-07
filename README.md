@@ -1,9 +1,6 @@
 # horiseon-web
-<<<<<<< HEAD
 
 <img src="./assets/images/Screenshot.png"/>
-
-
 
 ### HTML file changes
     head changes
@@ -42,5 +39,3 @@
     removed .search-engine-optimization img, .online-reputation-management img, and social-media-marketing img replaced with article img
     removed .search-engine-optimization h2, .online-reputation-management h2, and social-media-marketing h2 replaced with article h2
     changed .footer to footer
-=======
->>>>>>> e3752cc7bc522d6c19d477a78876f4bb6a0a4de1
